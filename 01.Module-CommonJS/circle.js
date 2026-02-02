@@ -11,8 +11,8 @@ class Circle {
 }
 
 // NOTE: cách 1:
-module.exports.Circle = Circle;
+// module.exports.Circle = Circle;
 
 
-// NOTE: cách 1:
+// NOTE: cách 2:
 module.exports = Circle;
